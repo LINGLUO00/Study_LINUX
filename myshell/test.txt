@@ -1,0 +1,14 @@
+total 36
+drwxrwxr-x 2 hyl hyl  4096 Oct  5 16:25 .
+drwxrwxr-x 5 hyl hyl  4096 Sep 20 18:57 ..
+-rw-rw-r-- 1 hyl hyl     0 Sep 20 19:53 log.txt
+-rw-rw-r-- 1 hyl hyl    99 Sep 20 19:26 Makefile
+-rwxrwxr-x 1 hyl hyl 13960 Oct  5 16:24 mybash
+-rw-rw-r-- 1 hyl hyl  5299 Oct  5 16:24 myshell.c
+-rw-rw-r-- 1 hyl hyl     0 Oct  5 16:25 test.txt
+log.txt
+Makefile
+mybash
+myshell.c
+test.txt
+tsest	
